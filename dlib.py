@@ -1,3 +1,2 @@
 import dlib
-
-print ('dlib success...')
+print(dir(dlib))
