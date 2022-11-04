@@ -1,4 +1,3 @@
 import dlib
 
-
-print(dlib.DLIB_USE_CUDA)
+print ('dlib success...')
